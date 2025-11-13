@@ -5,7 +5,7 @@ This repository contains the complete forecasting pipeline used in the peer-revi
 ## 📄 Scientific Publication 
 
 **Smoothing Techniques for Improving COVID-19 Time Series Forecasting Across Countries**  
-Published in *Computations (MDPI)* — **Scopus Q2**  
+Published in *Computations (MDPI)* - **Scopus Q2**  
 🔗 Article link: https://www.mdpi.com/2079-3197/13/6/136
 
 This repository reproduces all experiments, figures, and evaluation results described in the paper.
