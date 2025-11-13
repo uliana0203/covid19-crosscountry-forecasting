@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 2. Open the experiment notebook:
 ```bash
-jupyter notebook notebooks/smoothing_methods.ipynb
+jupyter notebook smoothing_methods.ipynb
 ```
 
 3. Run all cells to reproduce:
